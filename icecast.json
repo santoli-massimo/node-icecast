@@ -1,0 +1,10 @@
+{
+  "apps" : [
+    {
+      "name": "nodecast_master",
+      "script": "app/ice_master.js",
+      "exec_mode": "fork",
+      "watch": false
+    }
+  ]
+}
